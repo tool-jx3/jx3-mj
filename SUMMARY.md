@@ -1,6 +1,6 @@
 # Summary
 
 * DPS
-* T
+* [T](t.md)
    * 仇恨
 
