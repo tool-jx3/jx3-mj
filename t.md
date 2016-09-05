@@ -120,7 +120,7 @@
 
 `固定一仇 8 秒`
 
-可以參考這個[連結](http://tieba.baidu.com/p/4548463174?see_lz=1) ([備份](other.md))。
+可以參考這個[連結](http://tieba.baidu.com/p/4548463174?see_lz=1) ([備份](t-other.md))。
 
 ### 減傷技能
 
