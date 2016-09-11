@@ -161,3 +161,36 @@
 /cast 戒火斬
 /cast 赤日輪
 ```
+
+### 坦月淨世
+
+```
+/cast 淨世破魔擊
+/cast [tnobuff:戒火] 戒火斬
+/cast [tnobuff:極樂]慈悲願
+/cast 銀月斬
+/cast 幽月輪
+```
+
+### 其他巨集
+
+```
+/cast 心火嘆
+/cast 淨世破魔擊
+/cast [sun>moon] 烈日斬
+/cast [tnobuff:戒火] 戒火斬
+/cast [moon>sun] 銀月斬
+/cast [moon>sun|buff:魂·日] 幽月輪
+/cast 赤日輪
+```
+
+
+```
+/cast 心火嘆
+/cast 生死劫
+/cast [tnobuff:戒火]戒火斬
+/cast [sun>39] 烈日斬
+/cast [moon>39] 銀月斬
+/cast [moon>sun|buff:魂·日] 幽月輪
+/cast 赤日輪
+```
