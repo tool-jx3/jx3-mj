@@ -8,4 +8,4 @@
   * [屬性](t.md#屬性)
   * [巨集](t.md#巨集)
   * [其他](t-other.md)
-
+* [NewPlayer](new-player.md)
