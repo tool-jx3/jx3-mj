@@ -1,0 +1,24 @@
+{
+  "output": null,
+  "generator": "site",
+  "title": "JX3's Gitbook",
+  "plugins": ["autocover"],
+  "pluginsConfig": {
+      "autocover": {
+          "title": "JX3 明教簡介",
+          "author": "cat",
+          "font": {
+              "size": null,
+              "family": "Impact",
+              "color": "#FFF"
+          },
+          "size": {
+              "w": 1800,
+              "h": 2360
+          },
+          "background": {
+              "color": "#09F"
+          }
+      }
+  }
+}
