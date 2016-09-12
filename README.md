@@ -5,7 +5,7 @@ JX3明教簡介。
 
 # 如何加入
 
-本簡介檔案存放於GitHub內，並使用Markdown撰寫，若想加入編輯需有GitHub帳號。
+本簡介檔案存放於[GitHub](https://github.com/tool-jx3/jx3-mj)內，並使用[Markdown](http://markdown.tw)撰寫，若想加入編輯需有GitHub帳號。
 
 ## 使用GitHub
 
