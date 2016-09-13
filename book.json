@@ -2,23 +2,31 @@
   "output": null,
   "generator": "site",
   "title": "JX3's Gitbook",
-  "plugins": ["autocover"],
+  "plugins": [
+    "autocover",
+    "editlink"
+  ],
   "pluginsConfig": {
-      "autocover": {
-          "title": "JX3 明教簡介",
-          "author": "cat",
-          "font": {
-              "size": null,
-              "family": "Impact",
-              "color": "#FFF"
-          },
-          "size": {
-              "w": 1800,
-              "h": 2360
-          },
-          "background": {
-              "color": "#09F"
-          }
+    "autocover": {
+      "title": "JX3 明教簡介",
+      "author": "cat",
+      "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+      },
+      "size": {
+        "w": 1800,
+        "h": 2360
+      },
+      "background": {
+        "color": "#09F"
       }
+    },
+    "editlink": {
+      "base": "https://github.com/tool-jx3/jx3-mj/edit/master/",
+      "label": "Edit This Page",
+      "multilingual": false
+    }
   }
 }

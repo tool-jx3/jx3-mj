@@ -8,4 +8,4 @@
   * [屬性](./明教/t.md#屬性)
   * [巨集](./明教/t.md#巨集)
   * [其他](./明教/t-other.md)
-* [NewPlayer](new-player.md)
+* [NewPlayer](./入門/new-player.md)
