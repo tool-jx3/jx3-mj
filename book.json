@@ -3,6 +3,7 @@
   "generator": "site",
   "title": "JX3's Gitbook",
   "plugins": [
+    "anchors-wrapper",
     "autocover",
     "editlink",
     "github"
