@@ -4,7 +4,8 @@
   "title": "JX3's Gitbook",
   "plugins": [
     "autocover",
-    "editlink"
+    "editlink",
+    "github"
   ],
   "pluginsConfig": {
     "autocover": {
@@ -27,6 +28,9 @@
       "base": "https://github.com/tool-jx3/jx3-mj/edit/master/",
       "label": "編輯此頁",
       "multilingual": false
+    },
+    "github": {
+      "url": "https://github.com/tool-jx3/jx3-mj"
     }
   }
 }
