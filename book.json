@@ -25,7 +25,7 @@
     },
     "editlink": {
       "base": "https://github.com/tool-jx3/jx3-mj/edit/master/",
-      "label": "Edit This Page",
+      "label": "編輯此頁",
       "multilingual": false
     }
   }
