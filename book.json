@@ -4,6 +4,7 @@
   "title": "JX3's Gitbook",
   "plugins": [
     "autocover",
+    "disqus",
     "editlink",
     "ga",
     "github",
@@ -36,6 +37,9 @@
     },
     "ga": {
       "token": "UA-84129236-1"
+    },
+    "disqus": {
+      "shortName": "jx3-mj"
     }
   }
 }
