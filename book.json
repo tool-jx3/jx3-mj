@@ -5,6 +5,7 @@
   "plugins": [
     "autocover",
     "editlink",
+    "ga",
     "github",
     "navigator"
   ],
@@ -32,6 +33,9 @@
     },
     "github": {
       "url": "https://github.com/tool-jx3/jx3-mj"
+    },
+    "ga": {
+      "token": "UA-84129236-1"
     }
   }
 }
